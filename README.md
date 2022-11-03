@@ -14,6 +14,6 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 > In this project a 404 page and other views which could be considered as **front-end** are included for testing purposes.
 
-### **1.1.1 Back-End Structure**
+### **1. 1. 1 Back-End Structure**
 
 1. **RESTful API** with [**Express**](https://expressjs.com/) framework.
