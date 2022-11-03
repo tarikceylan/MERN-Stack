@@ -16,4 +16,4 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 ### **1. 1. 1 Back-End Structure**
 
-1. **RESTful API** with [**Express**](https://expressjs.com/) framework.
+- **RESTful API** with [**Express**](https://expressjs.com/) framework.
