@@ -12,6 +12,8 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 **Back-End** of a full-stack web application handles communication with internal and external resources. (e.g. application endpoints, database, etc.)
 
+> In this project a 404 page and other views which could be considered as **front-end** are included for testing purposes.
+
 ### Back-End Structure
 
 1. **RESTful API** with [**Express**](https://expressjs.com/) framework.
