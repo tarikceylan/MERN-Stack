@@ -6,7 +6,7 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 **MERN** is an acaronym for **M**ongoDB, **E**xpressJS, **R**eactJS, **N**odeJS which is a stack of technologies to build a full-stack web app.
 
-> A **Full-Stack** web app usually built with two parts. **Back-End** and **Front-End**
+> A **Full-Stack** web app is built with two parts. **Back-End** and **Front-End**
 
 ## **Back-End**
 
