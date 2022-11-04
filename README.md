@@ -23,8 +23,8 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 - [**uuid**](https://www.npmjs.com/package/uuid) package is used for assigning **unique identifiers** for log items.
 - [**dotenv**](https://www.npmjs.com/package/dotenv) package is used for storing environment variables.
 - [**mongoose-sequence**](https://www.npmjs.com/package/mongoose-sequence) package is used to assign custom IDs to collection entries.
-- [**express-async-handler**]() package is used for simplfying async calls in express
-- [**bcrypt**]() package is used for encrypting sensitive information when storing in the database
+- [**express-async-handler**]() package is used for **simplfying async calls** in express
+- [**bcrypt**]() package is used for **encrypting sensitive information** when storing in the database
 
 ### **1. 2. Database**
 
