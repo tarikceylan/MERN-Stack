@@ -22,7 +22,7 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 - [**cookie-parser**](https://www.npmjs.com/package/cookie-parser) package is used for **parsing information from cookies.**
 - [**uuid**](https://www.npmjs.com/package/uuid) package is used for assigning **unique identifiers** for log items.
 - [**dotenv**](https://www.npmjs.com/package/dotenv) package is used for storing environment variables.
-- [**mongoose-sequence**](https://www.npmjs.com/package/mongoose-sequence) package is used to give custom IDs to collection elements.
+- [**mongoose-sequence**](https://www.npmjs.com/package/mongoose-sequence) package is used to assign custom IDs to collection entries.
 
 ### **1. 2. Database**
 
