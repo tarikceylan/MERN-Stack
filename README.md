@@ -16,8 +16,8 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 ### **1. 1. Back-End Structure**
 
-- [**Express**](https://expressjs.com/) framework is used to setup **RESTful API**.
-- [**cors**](https://www.npmjs.com/package/cors) package used as a middleware to configure **Cross-Origin Resource Sharing.**
+- [**Express**](https://expressjs.com/) framework is used to setup [**RESTful API**](https://restfulapi.net/).
+- [**cors**](https://www.npmjs.com/package/cors) package used as a middleware to configure [**Cross-Origin Resource Sharing**](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS).
 - [**date-fns**](https://www.npmjs.com/package/date-fns) package is used for **timestamps in logs.**
 - [**cookie-parser**](https://www.npmjs.com/package/cookie-parser) package is used for **parsing information from cookies.**
 - [**uuid**](https://www.npmjs.com/package/uuid) package is used for assigning **unique identifiers** for log items.
