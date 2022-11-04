@@ -21,3 +21,8 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 - [**date-fns**](https://www.npmjs.com/package/date-fns) package is used for **timestamps in logs.**
 - [**cookie-parser**](https://www.npmjs.com/package/cookie-parser) package is used for **parsing information from cookies.**
 - [**uuid**](https://www.npmjs.com/package/uuid) package is used for assigning **unique identifiers** for log items.
+- [**dotenv**](https://www.npmjs.com/package/dotenv) package is used for storing environment variables.
+
+### **1. 2. Database**
+
+[**MongoDB**](https://www.mongodb.com/) is a **document database** which consists of [**collections**](https://www.mongodb.com/docs/manual/core/databases-and-collections/#collections)
