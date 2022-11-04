@@ -26,5 +26,5 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 ### **1. 2. Database**
 
-[**MongoDB**](https://www.mongodb.com/) is a **document database** which consists of [**collections**](https://www.mongodb.com/docs/manual/core/databases-and-collections/#collections)
-[**Mongoose**](https://mongoosejs.com/) is an ODM which helps interactions with MongoDB easier through code.
+- [**MongoDB**](https://www.mongodb.com/) is a **document database** which consists of [**collections**](https://www.mongodb.com/docs/manual/core/databases-and-collections/#collections)
+- [**Mongoose**](https://mongoosejs.com/) is an ODM which helps interactions with MongoDB easier through code.
