@@ -36,4 +36,4 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 **Front-End** of this application is built with [**ReactJS**](https://reactjs.org/) and [**Redux**](https://redux.js.org/).
 
-> Front-End related files are directly pulled from [**original course repository**](https://github.com/gitdagray/mern_stack_course). This document will be updated when Front-End technologies' basicss deeply studied.
+> Front-End related files are directly pulled from [**original course repository**](https://github.com/gitdagray/mern_stack_course). This document will be updated when Front-End technologies' basics are deeply studied.
