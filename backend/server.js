@@ -23,6 +23,7 @@ app.use(express.json()); //Receive parse JSON Data
 app.use(cookieParser());
 
 app.use('/', express.static(path.join(__dirname, 'public'))); //Serve static files
+
 app.use('/', require('./routes/root'));
 app.use('/auth', require('./routes/authRoutes'));
 app.use('/users', require('./routes/userRoutes'));
