@@ -31,3 +31,9 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 
 - [**MongoDB**](https://www.mongodb.com/) is a **document database** which consists of [**collections**](https://www.mongodb.com/docs/manual/core/databases-and-collections/#collections)
 - [**Mongoose**](https://mongoosejs.com/) is an ODM which helps interactions with MongoDB easier through code.
+
+## **2. Front-End**
+
+**Front-End** of this application is built with [**ReactJS**](https://reactjs.org/) and [**Redux**](https://redux.js.org/).
+
+> Front-End related files are directly pulled from [**original course repository**](https://github.com/gitdagray/mern_stack_course). This document will be updated when Front-End technologies' basicss deeply studied.
