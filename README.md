@@ -26,7 +26,7 @@ This repository is for MERN Stack training prepared by Dave Gray on Youtube whic
 - [**mongoose-sequence**](https://www.npmjs.com/package/mongoose-sequence) package is used to assign custom IDs to collection entries.
 - [**express-async-handler**]() package is used for **simplfying async calls** in express
 - [**bcrypt**](https://www.npmjs.com/search?q=bcrypt) package is used for **encrypting sensitive information** when storing in the database or cookies
-- [**jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken) package is used for **creating hashed tokens for authorization purposes**
+- [**jsonwebtoken**](https://www.npmjs.com/package/jsonwebtoken) package is used for **creating hashed tokens for authentication purposes**
 - [**express-rate-limit**](https://www.npmjs.com/package/express-rate-limit) package is used for **limiting request attempts to a specific resource from a specific IP**
 
 ### **1. 2. Database**
